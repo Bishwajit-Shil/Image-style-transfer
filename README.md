@@ -1,4 +1,4 @@
-# Neural Style Transfer with TensorFlow
+# Image Style Transfer
 
 ## Introduction
 
