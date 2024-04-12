@@ -1,4 +1,7 @@
 # Image Style Transfer
+<p align="center">
+  <img src="stylized-image.png" >
+</p>
 
 ## Introduction
 
